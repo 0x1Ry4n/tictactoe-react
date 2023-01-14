@@ -11,7 +11,7 @@
 
 <br>
 
-<ul><li><h2>🛠️ How Build?</h2></li></ul>
+<h2>🛠️ How Build?</h2>
 <ul>
   <li>Run <code>npm build</code> or <code>npm start</code></li>
 </ul>
