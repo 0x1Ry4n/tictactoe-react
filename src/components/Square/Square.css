@@ -1,0 +1,38 @@
+:root {
+    --white: #ffffff;
+    --custom-yellow: #e5dc15;
+    --custom-yellow2: #c2bb11;
+    --custom-black: rgba(0, 0, 0, 0.4);
+}
+
+.btnSquare {
+    background-color: var(--white);
+    color: var(--custom-blue);
+    font-family: 'Montserrat';
+    text-transform: uppercase;
+    margin: 0.9375rem; 
+    padding: .3125rem; 
+    border: .125rem solid var(--custom-yellow); 
+    border-radius: .3125rem;
+    box-shadow: 0 .75rem var(--custom-yellow2), 0 1.125rem var(--custom-black);
+    font-size: 3.75rem;
+    width: 5.625rem;
+    height: 5rem;
+    cursor: pointer; 
+    position: relative;     
+    top: 0;
+    transition: ease all 0.2s;
+}
+
+.btnSquare:hover {
+    background-color: var(--custom-yellow);
+    color: #0e80b0;
+    top: .25rem;
+    box-shadow: 0 .5rem var(--custom-yellow), 0 .875rem var(--custom-black);
+}
+
+.btnSquare:active {
+    top: .25rem;
+    box-shadow: 0 .25rem var(--custom-yellow), 0 .625rem var(--custom-black);
+}
+
