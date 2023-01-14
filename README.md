@@ -4,7 +4,7 @@
 
 <h2>✨ Features:</h2>
 <p> ✔️ React Components </p>
-<p> ✔️ React reduce hook</p>
+<p> ✔️ React useReduce hook</p>
 <p> ✔️ Sass styles </p>  
 <p> ✔️ Github pages deploy 
 <p> ❌ Responsive application </p>
