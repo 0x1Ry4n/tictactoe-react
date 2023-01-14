@@ -18,7 +18,7 @@
 
 <br>
 
-<h2>🚀 Deploy made on Github pages:</h2>
+<h2>🚀 Deploy on Github pages:</h2>
 <ul>
   <li>Client: https://0x1ry4n.github.io/tictactoe-react/</li>
 </ul>
