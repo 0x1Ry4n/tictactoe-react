@@ -1,6 +1,6 @@
 <h1>Tic-tac-toe Game</h1>
 
-<h4>Tic tac toe game made with react</h4>
+<h4>Tic tac toe game made with React</h4>
 
 <h2>✨ Features:</h2>
 <p> ✔️ React Components </p>
